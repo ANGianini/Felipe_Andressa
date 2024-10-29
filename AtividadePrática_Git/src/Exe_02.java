@@ -1,7 +1,7 @@
 
 /*Crie um programa que o usuário informe um número de 1 a 100. Outro usuário deve tentar adivinhar o número e o 
  * programa deve informar se o número digitado é maior ou menor que o número escolhido. O jogador terá um limite
- * de 7 tentativas, no final deve informar se acertou ou esgotou as tentativas. */
+ * de 7 tentativas, no final deve informar se acertou ou esgotou as tentativas.*/
 import java.util.Scanner;
 
 public class Exe_02 {
